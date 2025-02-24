@@ -1,3 +1,4 @@
+#pseudocode
 #Get the total sales from the user
 #share this number with others
 #take the number * 0.05
